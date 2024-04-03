@@ -1,6 +1,28 @@
 # Google Cloud Engineer
 
-A general guide for working as a google cloud engineer.
+A general guide for people working as a google cloud engineer.
+
+## Conferences
+- [ ] Google Cloud Next
+
+## Videos
+
+- [ ] Google Cloud Tech
+- [ ] Google Cloud
+
+## Reading
+- [ ] TBC
+
+## Technical
+- [ ] Certifications
+- [ ] Developer Tools
+- [ ] Analytics
+- [ ] Serverless
+- [ ] Storage
+- [ ] Compute
+- [ ] Security
+- [ ] Networking
+- [ ] Machine Learning + Artificial Intelligence
 
 
 ## Google Cloud Certifications
@@ -24,8 +46,70 @@ General musings on taking the Google Cloud Professional level qualifications.
 - [ ] [Professional DevOps Engineer]()
 
 
-## Google Cloud
+## Developer Tools
 
 ### CloudShell
 
 - [ ] [CloudShell But Better](https://medium.com/@askrichardrose/cloudshell-but-better-e3f759b999cd)
+
+### CloudBuild
+
+- [ ] [TBC]()
+
+## Analytics
+
+### BigQuery
+
+- [ ] [TBC]()
+
+### PubSub
+
+- [ ] [TBC]()
+
+## Serverless
+
+### Cloud Run
+
+- [ ] [TBC]()
+
+### Cloud Functions
+
+- [ ] [TBC]()
+
+## Storage
+
+### Cloud Storage
+
+- [ ] [TBC]()
+
+## Compute
+
+### Google Kubernetes Engine
+
+- [ ] [TBC]()
+
+### Google Compute Engine
+
+- [ ] [TBC]()
+
+## Security
+
+### IAM
+
+- [ ] [TBC]()
+
+### Service Accounts
+
+- [ ] [TBC]()
+
+## Networking
+
+### VPC
+
+- [ ] [TBC]()
+
+## Machine Learning + Artificial Intelligence
+
+### Vertex AI
+
+- [ ] [TBC]()
