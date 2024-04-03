@@ -1,6 +1,7 @@
 # Google Cloud Engineer
 
-A general guide for working as a google-engineer.
+A general guide for working as a google cloud engineer.
+
 
 ## Google Cloud
 
