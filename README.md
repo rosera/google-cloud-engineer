@@ -7,7 +7,7 @@ A general guide for working as a google cloud engineer.
 
 ### CloudShell
 
--[ ] [CloudShell But Better]()
+-[ ] [CloudShell But Better](https://medium.com/@askrichardrose/cloudshell-but-better-e3f759b999cd)
 
 ## Google Cloud Certifications
 
