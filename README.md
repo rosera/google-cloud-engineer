@@ -1,13 +1,17 @@
 # Google Cloud Engineer
 
-A general guide for people working as a google cloud engineer.
+A general guide for working as a Google Cloud engineer.
+
 
 ## Conferences
-- [ ] Google Cloud Next
+- [ ] [Google Cloud Next 2024](https://cloud.withgoogle.com/next)
 
 ## Videos
 
+### Google Cloud Tech
 - [ ] Google Cloud Tech
+
+### Google Cloud
 - [ ] Google Cloud
 
 ## Reading
@@ -24,14 +28,15 @@ A general guide for people working as a google cloud engineer.
 - [ ] Networking
 - [ ] Machine Learning + Artificial Intelligence
 
-
 ## Google Cloud Certifications
 
 Information relating to examinations from Google Cloud
 
+### Guidance
+
 - [ ] [How to choose a Google Cloud Certification](https://medium.com/@askrichardrose/how-to-choose-a-google-cloud-certification-ce3ea8795471)
 
-## Google Cloud Professional Level
+### Professional Level
 
 General musings on taking the Google Cloud Professional level qualifications.
 
@@ -45,16 +50,42 @@ General musings on taking the Google Cloud Professional level qualifications.
 - [ ] [Professional Database Engineer](https://medium.com/@askrichardrose/google-cloud-professional-database-engineer-f225118d7424)
 - [ ] [Professional DevOps Engineer]()
 
+## Firebase
+- [ ] [TBC]()
 
 ## Developer Tools
 
 ### CloudShell
-
 - [ ] [CloudShell But Better](https://medium.com/@askrichardrose/cloudshell-but-better-e3f759b999cd)
 
-### CloudBuild
+## Compute
+
+### Google Kubernetes Engine
 
 - [ ] [TBC]()
+
+### Google Compute Engine
+
+- [ ] [TBC]()
+- [ ] [Google Compute Engine A Free Tier Virtual Machine](https://richrose.dev/posts/cloud/google-cloud/gcp-virtual-machine/)
+
+## CI/CD 
+
+### CloudBuild
+- [ ] [Build a container image with CloudBuild](https://richrose.dev/posts/dev/hugo/hugo-image-cloudbuild/)
+
+
+## Networking
+
+### Cloud DNS
+- [ ] [Cloud DNS Setting up a Custom Domain using Cloudflare](https://richrose.dev/posts/cloud/google-cloud/gcp-hugo-static-site/)
+
+## Storage
+
+### Cloud Storage
+- [ ] [Google Cloud Storage CORS](https://richrose.dev/posts/cloud/google-cloud/gcp-gcs-cors/)
+- [ ] [Google Cloud Storage Metadata](https://richrose.dev/posts/cloud/google-cloud/gcp-gcs-metadata/)
+- [ ] [Google Cloud Storage Creating a Static Website](https://richrose.dev/posts/cloud/google-cloud/gcp-gcs-website/)
 
 ## Analytics
 
@@ -73,22 +104,6 @@ General musings on taking the Google Cloud Professional level qualifications.
 - [ ] [TBC]()
 
 ### Cloud Functions
-
-- [ ] [TBC]()
-
-## Storage
-
-### Cloud Storage
-
-- [ ] [TBC]()
-
-## Compute
-
-### Google Kubernetes Engine
-
-- [ ] [TBC]()
-
-### Google Compute Engine
 
 - [ ] [TBC]()
 
@@ -113,3 +128,4 @@ General musings on taking the Google Cloud Professional level qualifications.
 ### Vertex AI
 
 - [ ] [TBC]()
+
