@@ -1,15 +1,16 @@
 # Google Cloud Engineer
 
-A general guide for working as a google cloud engineer.
-
+A general guide for working as a Google Cloud engineer.
 
 ## Google Cloud Certifications
 
 Information relating to examinations from Google Cloud
 
+### Guidance
+
 - [ ] [How to choose a Google Cloud Certification](https://medium.com/@askrichardrose/how-to-choose-a-google-cloud-certification-ce3ea8795471)
 
-## Google Cloud Professional Level
+### Professional Level
 
 General musings on taking the Google Cloud Professional level qualifications.
 
@@ -26,6 +27,23 @@ General musings on taking the Google Cloud Professional level qualifications.
 
 ## Google Cloud
 
+### Compute
+- [ ] [Google Compute Engine A Free Tier Virtual Machine](https://richrose.dev/posts/cloud/google-cloud/gcp-virtual-machine/)
+
+### CI/CD 
+
+- [ ] [Build a container image with CloudBuild](https://richrose.dev/posts/dev/hugo/hugo-image-cloudbuild/)
+
 ### CloudShell
 
 - [ ] [CloudShell But Better](https://medium.com/@askrichardrose/cloudshell-but-better-e3f759b999cd)
+
+### Networking
+
+- [ ] [Cloud DNS Setting up a Custom Domain using Cloudflare](https://richrose.dev/posts/cloud/google-cloud/gcp-hugo-static-site/)
+
+### Storage
+
+- [ ] [Google Cloud Storage CORS](https://richrose.dev/posts/cloud/google-cloud/gcp-gcs-cors/)
+- [ ] [Google Cloud Storage Metadata](https://richrose.dev/posts/cloud/google-cloud/gcp-gcs-metadata/)
+- [ ] [Google Cloud Storage Creating a Static Website](https://richrose.dev/posts/cloud/google-cloud/gcp-gcs-website/)
