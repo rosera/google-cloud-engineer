@@ -16,5 +16,8 @@ Learning how to use Cloud Storage:
 
 ## Lab Demos
 
-- [ ] Lab One
-- [ ] Lab Two 
+- [ ] [Create a Private GCS Bucket](https://www.cloudskillsboost.google/focuses/83838?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=35694309)
+- [ ] Create a Public GCS Bucket 
+- [ ] Create a GCS Bucket Object 
+- [ ] Add a GCS Bucket lifecycle policy
+- [ ] Add GCS Bucket Object metadata 
