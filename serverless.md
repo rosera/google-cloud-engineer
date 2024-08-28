@@ -7,11 +7,15 @@ Information relating to Serverless from Google Cloud
 Learning how to use Cloud Run
 - [ ] [Cloud Run]()
 - [ ] [Cloud Run Jobs]()
+- [ ] [Cloud Run Storage]()
+- [ ] [Cloud Run Pub/Sub]()
 
-Lab Demos
+### Lab Demos
+- [ ] Create a HTTP Cloud Run service 
+- [ ] Create a GCS Cloud Run service 
+- [ ] Create a Pub/Sub Cloud Run service 
+- [ ] Add authentication to a Cloud Run service 
 
-- [ ] Lab One
-- [ ] Lab Two 
 
 ## Cloud Functions
 
@@ -23,10 +27,13 @@ Learning how to use Cloud Functions
 - [ ] [Cloud Functions Eventarc Storage]()
 - [ ] [Cloud Functions Eventarc Firestore]()
 
-## Lab Demos
+### Lab Demos
 
-- [ ] Lab One
-- [ ] Lab Two 
-- [ ] Lab Three 
-- [ ] Lab Four 
-- [ ] Lab Five 
+Cloud Functions Generation Two
+
+- [ ] Create a Cloud Function using Ruby 
+- [ ] Create a Cloud Function using Python 
+- [ ] Create a Cloud Function using PHP 
+- [ ] Create a Cloud Function using Node.js 
+- [ ] Create a Cloud Function using .NET 
+- [ ] Create a Cloud Function using Go
