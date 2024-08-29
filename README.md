@@ -2,12 +2,15 @@
 
 A general guide for working as a Google Cloud engineer.
 
-## Technical
+## Certification 
 - [x] [Certifications](https://github.com/rosera/google-cloud-engineer/blob/main/certifications.md)
+
+## Products + Services 
 - [ ] [Developer Tools](https://github.com/rosera/google-cloud-engineer/blob/main/developer.md)
 - [ ] [Analytics](https://github.com/rosera/google-cloud-engineer/blob/main/analytics.md)
 - [ ] [Serverless](https://github.com/rosera/google-cloud-engineer/blob/main/serverless.md)
 - [ ] [Storage](https://github.com/rosera/google-cloud-engineer/blob/main/storage.md)
+- [ ] [Database](https://github.com/rosera/google-cloud-engineer/blob/main/database.md)
 - [ ] [Compute](https://github.com/rosera/google-cloud-engineer/blob/main/compute.md)
 - [ ] [Security](https://github.com/rosera/google-cloud-engineer/blob/main/security.md)
 - [ ] [Networking](https://github.com/rosera/google-cloud-engineer/blob/main/networking.md)
@@ -33,6 +36,6 @@ A general guide for working as a Google Cloud engineer.
 ### Google Cloud
 - [ ] Google Cloud
 
-## Reading
+## Whitepapers 
 - [ ] TBC
 
