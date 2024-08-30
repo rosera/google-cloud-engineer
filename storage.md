@@ -21,3 +21,47 @@ Learning how to use Cloud Storage:
 - [ ] Create a GCS Bucket Object 
 - [ ] Add a GCS Bucket lifecycle policy
 - [ ] Add GCS Bucket Object metadata 
+
+## Filestore 
+
+TBC
+
+- [ ] [TBC]()
+
+### Lab Demos
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+
+## Storage transfer 
+
+TBC
+
+- [ ] [TBC]()
+
+### Lab Demos
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+
+## PowerScale 
+
+TBC
+
+- [ ] [TBC]()
+
+### Lab Demos
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+
+## NetApp volumes 
+
+TBC
+
+- [ ] [TBC]()
+
+### Lab Demos
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 

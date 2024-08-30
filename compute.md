@@ -30,3 +30,37 @@ Learning how to use Google Kubernetes Engine (GKE)/Minikube
 ## Blog Posts
 
 - [ ] [TBC]()
+
+## VMware Engine 
+
+TBC
+
+- [ ] [TBC]()
+
+### Lab Demos
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+
+## Batch 
+
+TBC
+
+- [ ] [TBC]()
+
+### Lab Demos
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+
+## Workload Manager 
+
+TBC
+
+- [ ] [TBC]()
+
+### Lab Demos
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+- [ ] [TBC](TBC) 
+

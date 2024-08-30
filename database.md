@@ -1,16 +1,16 @@
-# Database 
+# Databases
 
 Create, manage and migration relational and non-relational databases.
 
 | Product | Description |
 |---------|-------------|
-| CloudSQL | Managed MySQL, PostgreSQL, SQL Server |
+| SQL | Managed MySQL, PostgreSQL, SQL Server |
 | BigTable | Petabyte-scale, low latency, non-relational |
 | Spanner| Horizontally scalable relational DB |
 
-## CloudSQL 
+## SQL 
 
-Learning how to use CloudSQL:
+Learning how to use SQL:
 
 - [ ] [Docs]()
 - [ ] [Quickstart]()
@@ -38,3 +38,57 @@ Learning how to use Spanner:
 ## Lab Demos
 
 - [ ] Lab Demo 
+
+## Database centre 
+
+TBC
+
+- [ ] [TBC]()
+
+## AlloyDB 
+
+TBC
+
+- [ ] [TBC]()
+
+## Datastore 
+
+TBC
+
+- [ ] [TBC]()
+
+## Firestore 
+
+TBC
+
+- [ ] [TBC]()
+
+## Memorystore 
+
+TBC
+
+- [ ] [TBC]()
+
+## Database Migration 
+
+TBC
+
+- [ ] [TBC]()
+
+## MongoDB Atlas 
+
+TBC
+
+- [ ] [TBC]()
+
+## Neo4j Aura 
+
+TBC
+
+- [ ] [TBC]()
+
+## Redis Cloud 
+
+TBC
+
+- [ ] [TBC]()

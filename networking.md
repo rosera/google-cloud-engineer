@@ -15,13 +15,7 @@ Information relating to networking from Google Cloud
 | Private networking option for vertex AI (PSC Googleapis) | [Link](https://lnkd.in/gwgZsVVx) | Lorin & Deepak |
 | Service Centric Cross-Cloud network | [Link](https://lnkd.in/gqrv8kfV) | Ishita | 
 
-## Cloud DNS
-
-Learning how to use Cloud DNS
-
-- [ ] [TBC]()
-
-### VPC
+## VPC
 
 - [ ] [VPC]()
 - [ ] [Subnet]()
@@ -31,6 +25,46 @@ Learning how to use Cloud DNS
 - [ ] Lab One
 - [ ] Lab Two 
 
+## Network services
+
+- [ ] [TBC]()
+- [ ] [TBC]()
+
+
+## Network connectivity 
+
+- [ ] [TBC]()
+- [ ] [TBC]()
+
+
+## Network security 
+
+- [ ] [TBC]()
+- [ ] [TBC]()
+
+
+## Network intelligence 
+
+- [ ] [TBC]()
+- [ ] [TBC]()
+
+
+## Network Service Tiers 
+
+- [ ] [TBC]()
+- [ ] [TBC]()
+
+
+## Spectrum access system 
+
+- [ ] [TBC]()
+- [ ] [TBC]()
+
+
+## Telecom network automation 
+
+- [ ] [TBC]()
+- [ ] [TBC]()
 
 ## Blog Posts
 

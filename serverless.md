@@ -17,7 +17,7 @@ Learning how to use Cloud Run
 - [ ] Add authentication to a Cloud Run service 
 
 
-## Cloud Functions
+## Cloud Run functions
 
 Learning how to use Cloud Functions
 
@@ -37,3 +37,22 @@ Cloud Functions Generation Two
 - [ ] Create a Cloud Function using Node.js 
 - [ ] Create a Cloud Function using .NET 
 - [ ] Create a Cloud Function using Go
+
+
+## App Engine 
+
+TBC
+
+- [ ] [TBC]()
+
+## API gateway 
+
+TBC
+
+- [ ] [TBC]()
+
+## Endpoints 
+
+TBC
+
+- [ ] [TBC]()
