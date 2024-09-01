@@ -4,6 +4,11 @@
 
 Learning how to use Google Compute Engine(GCE)
 
+VMs, GPUs, TPUs, disks. Run virtual machines in Google's data centers
+
+- [ ] doc_link: [link](https://cloud.google.com/compute/docs?hl=en_US)
+- [ ] quickstart_link: [link](https://cloud.google.com/compute/docs/quickstart-linux?hl=en_US)
+
 - [ ] [TBC]()
 
 ### Lab Demos
@@ -19,8 +24,10 @@ Learning how to use Google Compute Engine(GCE)
 ## Google Kubernetes Engine
 
 Learning how to use Google Kubernetes Engine (GKE)/Minikube
+Managed Kubernetes / containers. Run containers and implement cloud-native applications powered by industry standards
 
-- [ ] [TBC]()
+- [ ] doc_link: [link](https://cloud.google.com/kubernetes-engine/docs?hl=en_US)
+- [ ] quickstart_link: [link](https://cloud.google.com/kubernetes-engine/docs/quickstart?hl=en_US)
 
 ### Lab Demos
 - [ ] [GKE Standard](TBC) 
@@ -33,7 +40,10 @@ Learning how to use Google Kubernetes Engine (GKE)/Minikube
 
 ## VMware Engine 
 
-TBC
+VMware as a service. Get all the hardware and VMware licenses you need to run a dedicated VMware SDDC in Google Cloud
+
+- [ ] doc_link: [link](https://cloud.google.com/vmware-engine/docs?hl=en_US)
+- [ ] quickstart_link: [link](https://cloud.google.com/vmware-engine/docs/quickstart-prerequisites?hl=en_US)
 
 - [ ] [TBC]()
 
@@ -44,9 +54,10 @@ TBC
 
 ## Batch 
 
-TBC
+Jobs as a service. Submit, run, and manage your batch workloads as both inline commands or containerized workloads, powered by Compute Engine’s resources
 
-- [ ] [TBC]()
+- [ ] doc_link: [n/a]()
+- [ ] quickstart_link: [n/a]()
 
 ### Lab Demos
 - [ ] [TBC](TBC) 
@@ -55,9 +66,10 @@ TBC
 
 ## Workload Manager 
 
-TBC
+Enterprise workload deployment and operation. Accelerate the deployment of enterprise workloads, validate against best practices, and simplify operations management
 
-- [ ] [TBC]()
+- [ ] doc_link: [link](https://cloud.google.com/workload-manager/docs?hl=en_US)
+- [ ] quickstart_link: [link](https://cloud.google.com/workload-manager/docs/overview?hl=en_US)
 
 ### Lab Demos
 - [ ] [TBC](TBC) 
