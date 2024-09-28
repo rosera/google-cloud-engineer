@@ -2,7 +2,7 @@
 
 # Create the Cloud Storage bucket for the function code
 resource "google_storage_bucket" "function_code_bucket" {
-  name          = var.gcf_source_archive_bucket
+  name          = "${var.gcp_project_id}-${var.gcf_source_archive_bucket}"
   location      = var.gcp_region # Choose a location within the selected region
   force_destroy = true
 }
