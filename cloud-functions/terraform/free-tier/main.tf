@@ -1,5 +1,12 @@
 # TODO: Add local variable to create trigger URL
 
+# Create the Cloud Storage bucket for the function code
+resource "google_storage_bucket" "function_code_bucket" {
+  name          = var.gcf_source_archive_bucket
+  location      = var.gcp_region # Choose a location within the selected region
+  force_destroy = true
+}
+
 # Create the Cloud Function
 resource "google_cloudfunctions_function" "free_tier_function" {
   name         = var.gcf_service_name
@@ -7,15 +14,10 @@ resource "google_cloudfunctions_function" "free_tier_function" {
   entry_point  = var.gcf_service_entrypoint # Replace with your function's entry point
   trigger_http = var.gcf_service_http_trigger
 
-  source_archive_bucket = var.gcf_source_archive_bucket
+  # source_archive_bucket = var.gcf_source_archive_bucket
+  # source_archive_object = var.gcf_source_archive_object
+  source_archive_bucket = google_storage_bucket.function_code_bucket.name 
   source_archive_object = var.gcf_source_archive_object
-}
-
-# Create the Cloud Storage bucket for the function code
-resource "google_storage_bucket" "function_code_bucket" {
-  name          = var.gcf_source_archive_bucket
-  location      = var.gcp_region # Choose a location within the selected region
-  force_destroy = true
 }
 
 ## As of November 1, 2019, newly created Functions are private-by-default and will require appropriate IAM permissions to be invoked. 
