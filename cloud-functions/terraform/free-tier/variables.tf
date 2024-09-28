@@ -36,6 +36,13 @@ variable "gcf_service_entrypoint" {
 }
 
 # Default value passed in
+variable "gcf_service_http_trigger" {
+  type        = bool
+  description = "Cloud Function http trigger."
+  default     = true
+}
+
+# Default value passed in
 variable "gcf_source_archive_object" {
   type        = string
   description = "Cloud Function achive object in storage bucket."
@@ -43,10 +50,22 @@ variable "gcf_source_archive_object" {
 }
 
 # Default value passed in
-variable "gcf_source_achive_bucket" {
+variable "gcf_source_archive_bucket" {
   type        = string
   description = "Cloud Function storage bucket name."
   default     = "functions-bucket"
 }
 
+# Default value passed in
+variable "gcf_iam_role" {
+  type        = string
+  description = "Cloud Function IAM role binding."
+  default     = "roles/cloudfunctions.invoker"
+}
 
+# Default value passed in
+variable "gcf_iam_member" {
+  type        = string
+  description = "Cloud Function IAM member."
+  default     = "allUsers"
+}
