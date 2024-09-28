@@ -23,7 +23,7 @@ resource "google_cloudfunctions_function" "free_tier_function" {
   # source_archive_bucket = var.gcf_source_archive_bucket
   # source_archive_object = var.gcf_source_archive_object
   source_archive_bucket = google_storage_bucket.function_code_bucket.name 
-  source_archive_object = var.gcf_source_archive_object
+  source_archive_object = google_storage_bucket_object.archive.name 
 }
 
 ## As of November 1, 2019, newly created Functions are private-by-default and will require appropriate IAM permissions to be invoked. 
