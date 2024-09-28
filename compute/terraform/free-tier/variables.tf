@@ -8,7 +8,7 @@ variable "gcp_project_id" {
 variable "gcp_region" {
   type        = string
   description = "Region to create resources in."
-  default = "us-central1"
+  default     = "us-central1"
 }
 
 ## Google Compute Engine properties
@@ -18,21 +18,21 @@ variable "gcp_region" {
 variable "gce_instance_name" {
   type        = string
   description = "Google Cloud Engine instance name."
-  default = "vm-ft" 
+  default     = "vm-ft"
 }
 
 # Default value passed in
 variable "gce_machine_type" {
   type        = string
   description = "Google Cloud Engine machine type."
-  default = "e2-small" 
+  default     = "e2-small"
 }
 
 # Default value passed in
 variable "gce_machine_zone" {
   type        = string
   description = "Google Cloud Engine machine type."
-  default = "us-central1-a" 
+  default     = "us-central1-a"
 }
 
 # Default value passed in
@@ -41,5 +41,5 @@ variable "gce_public_image" {
   type        = string
   description = "Google Cloud Engine compute image."
   # default = "debian-cloud/debian-11-buster" 
-  default = "ubuntu-os-cloud/ubuntu-2204-lts" 
+  default = "ubuntu-os-cloud/ubuntu-2204-lts"
 }
