@@ -7,7 +7,7 @@ A general guide for working as a Google Cloud engineer.
 
 ## Products + Services 
 - [ ] [Management](https://github.com/rosera/google-cloud-engineer/blob/main/management.md)
-- [ ] [Compute](https://github.com/rosera/google-cloud-engineer/blob/main/compute.md)
+- [ ] [Compute](https://github.com/rosera/google-cloud-engineer/blob/main/compute/compute.md)
 - [ ] [Storage](https://github.com/rosera/google-cloud-engineer/blob/main/storage.md)
 - [ ] [Analytics](https://github.com/rosera/google-cloud-engineer/blob/main/analytics.md)
 - [ ] [Networking](https://github.com/rosera/google-cloud-engineer/blob/main/networking.md)
