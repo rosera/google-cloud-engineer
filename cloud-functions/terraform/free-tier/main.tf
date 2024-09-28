@@ -7,6 +7,12 @@ resource "google_storage_bucket" "function_code_bucket" {
   force_destroy = true
 }
 
+resource "google_storage_bucket_object" "archive" {
+  name   = var.gcf_source_archive_name
+  bucket = google_storage_bucket.function_code_bucket.name
+  source = var.gcf_source_archive_object
+}
+
 # Create the Cloud Function
 resource "google_cloudfunctions_function" "free_tier_function" {
   name         = var.gcf_service_name

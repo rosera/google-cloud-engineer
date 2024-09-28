@@ -43,6 +43,13 @@ variable "gcf_service_http_trigger" {
 }
 
 # Default value passed in
+variable "gcf_source_archive_name" {
+  type        = string
+  description = "Cloud Function achive object in storage bucket."
+  default     = "function.zip"
+}
+
+# Default value passed in
 variable "gcf_source_archive_object" {
   type        = string
   description = "Cloud Function achive object in storage bucket."
