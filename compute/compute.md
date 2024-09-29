@@ -8,8 +8,7 @@ VMs, GPUs, TPUs, disks. Run virtual machines in Google's data centers
 
 - [ ] doc_link: [link](https://cloud.google.com/compute/docs?hl=en_US)
 - [ ] quickstart_link: [link](https://cloud.google.com/compute/docs/quickstart-linux?hl=en_US)
-
-- [ ] [TBC]()
+- [ ] [Infrastructure As Code](https://github.com/rosera/cloud-provider-iac/blob/main/compute/terraform/README.md)
 
 ### Lab Demos
 - [ ] [Google Compute Engine Linux Virtual Machine](https://www.cloudskillsboost.google/focuses/3563?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=35743123) 
